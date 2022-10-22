@@ -1,4 +1,4 @@
-# Desafo de Projeto Bootcamp NTT
+# Desafio de Projeto Bootcamp NTT
 
 ## Criar um website simples
 
